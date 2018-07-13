@@ -1,0 +1,85 @@
+body {
+	background: #ececec;
+}
+p {
+	font-size: 100%;
+	font-family: Times New Roman, sans-serif;
+}
+#tobaccoForm {
+	width: 50%;
+	min-width: 500px;
+	margin: 0 auto;
+	//margin-top: 100px;
+	padding-bottom: 10px;
+	font-size: 200%;
+	padding-top: 25px;
+	background: -webkit-linear-gradient(left, #80B040 , #4A9C8F); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(right, #80B040, #4A9C8F); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(right, #80B040, #4A9C8F); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to right, #80B040 , #4A9C8F); /* Standard syntax */
+	-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px; /* future proofing */
+-khtml-border-radius: 10px; /* for old Konqueror browsers */
+}
+input {
+	height: 2em;
+	width: 100%;
+	font-size: 100%;
+	padding-left: 10px;
+	-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px; /* future proofing */
+-khtml-border-radius: 10px; /* for old Konqueror browsers */
+}
+#submitBtn {
+	font-size: 150%;
+	width: 250px;
+	height: 1.5em;
+	display: block;
+	position: relative;
+	text-align: center;
+	margin: 10px auto;
+	-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px; /* future proofing */
+-khtml-border-radius: 10px; /* for old Konqueror browsers */
+}
+fieldset {
+	margin: auto 10px;
+	-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px; /* future proofing */
+-khtml-border-radius: 10px; /* for old Konqueror browsers */
+}
+img {
+	float: left;
+	padding-right: 25px;
+}
+a:visited, a:link {
+	color: #FF4318;
+	text-shadow: 1px 1px #222;
+}
+.homeLink {
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+	padding: 10px;
+}
+.header {
+	padding: 15px;
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+html {
+	width: 800px;
+	display: block;
+	margin: 0 auto;
+}
+a {
+	font-size: 1.5em;
+}
+.textAlignCenter {
+	text-align: center;
+}
